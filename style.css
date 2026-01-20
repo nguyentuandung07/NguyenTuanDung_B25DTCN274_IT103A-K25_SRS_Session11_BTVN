@@ -107,3 +107,23 @@ header {
   width: 1100px;
   height: 348px;
 }
+footer {
+  width: 1920px;
+  height: 78px;
+  background-color: #2c2c2c;
+  position: relative;
+}
+footer p {
+  position: absolute;
+  font-family: Inter;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 15.1px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #ffffff;
+  text-align: center;
+  margin: 30px 731.2px;
+}
